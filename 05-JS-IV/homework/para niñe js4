@@ -1,0 +1,17 @@
+Objetos
+Propiedades
+Métodos
+Bucle for…in
+Notación de puntos vs notación de corchetes
+
+Los obejetos son como una colección de cosas que guardamos en la memoria del interprete, con la particularidad 
+de que cada elemento de ese objeto tiene una etiqueta, llamada clave, y lo que guarda esa etiqueta, llamada valor.
+
+Las propiedades con esos elementos de clave-valor que guardamos en los objetos.
+
+Los métodos son acciones que puede realizar el objeto y que le indicamos al interprete a través de una función.
+
+El bucle for...in es una acción que hace el intérprete, recorriendo cada uno de los elementos del objeto. 
+
+Tenemos dos formas de encontrar a los elementos. Una es utilizando un punto y se llama notación de puntos, que nos ahorra escritura pero funciona de manera literal y no siempre funciona esto.
+La otra es utilizando corchetes y comillas, que si bien escribimos más nos permite buscar mas ampliamente. 
