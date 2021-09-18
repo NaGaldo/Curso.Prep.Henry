@@ -1,0 +1,7 @@
+Que es una variable? Es una caja con una etiqueta donde guardamos ordenadas cosas que luego podemos utilizar buscando esa etiqueta.
+Una string es un tipo de información que está compuesto por letras unidas, una palabra es un ejemplo.
+Una función es una acción que yo le explico al interprete del programa para que elle lo haga, tomando en cuenta las ordenes que le doy.
+Por ejemplo, si le digo return, elle al finalizar las acciones me devuelve un resultado. Para hacer esto, utiliza info que le paso y esa info son argumentos.
+Algunas veces puedo darle una o mas opciones de accion, segun los datos que elle analice. Para eso uso el IF. 
+If significa "si", entonces, si sucede tal cosa, hace tal cosa, pero si no sucede, hace tal otra.
+Para decidir el interprete del programa usa algo que se llama valores booleanos. No tiene capacidad de duda, las cosas son verdaderas o son falsas.
