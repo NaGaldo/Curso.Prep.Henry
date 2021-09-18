@@ -1,0 +1,5 @@
+prototype
+Constructors (de Clases)
+
+Un prototype es una plantilla con un montón de acciones y caracteristicas que nos permiten crear objetos nuevos en base a esos datos.
+Un constructor de clases es una fabrica de objetos, es decir, que creamos esa plantilla que luego usaremos como modelo para crear muchos objetos particulares.
