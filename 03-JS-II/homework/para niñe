@@ -1,0 +1,10 @@
+for
+&&, ||, !
+
+Cuando necesitamos que el interprete al que le damos indicaciones realice una acción no una, sino muchas veces, 
+tal vez ni siquiera sabemos cuántas veces, usamos una palabra llamada FOR. 
+
+Cuando hay mas de un dato para resolver, a veces podemos indicarle que si pasa algo Y tal otra cosa queremos un resultado,
+pero también puede ser que si pasa algo O tal otro algo, o incluso si NO pasa. Y el interprete tiene un sistema incorporado
+llamado las tablas de la verdad con las cuales sabe que decidir en un caso o en otro. Ese Y el interprete lo lee como &&, el O como ||
+y la negación como !.
